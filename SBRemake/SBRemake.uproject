@@ -17,6 +17,15 @@
 			"Name": "RestartEditor",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/a00eb1e478ae4a8fb655aa22f9125b07"
+		},
+		{
+			"Name": "DiscordRpc",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/b6e233cab7f149599033d045b18a7dc1"
+		},
+		{
+			"Name": "GameJoltAPI",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
